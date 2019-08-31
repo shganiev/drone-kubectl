@@ -1,4 +1,4 @@
-FROM bitnami/kubectl:1.13
+FROM smartive/kuby:kubectl-v1.13-kuby-v4.4.0
 
 LABEL maintainer "Sinlead <opensource@sinlead.com>"
 
